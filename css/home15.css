@@ -120,7 +120,7 @@ p {
 .octf-btn.octf-btn-primary {
   padding: 16px 40px 16px 40px;
   font-family: "DM Sans", Sans-serif;
-  font-size: 16px;
+  font-size: 18px;
   text-transform: capitalize;
   line-height: 24px;
   color: #1a1b1e;
@@ -158,7 +158,6 @@ hr {
   background: #fe00000d;
   padding: 10px 24px 10px 24px;
   border-radius: 40px 40px 40px 40px;
-  font-family: "DM Sans", Sans-serif;
   font-size: 18px;
   font-weight: 700;
   line-height: 17px;
