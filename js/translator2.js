@@ -11,9 +11,14 @@ const translations = {
     "header-singlepproducts": "Single Product",
     "header-comboproducts": "Combo product",
     "header-coopproducts": "Co-op Product",
+    "mitsubishi-tool": "Mitsubishi Tools",
     "header-document": "Documents",
+    "header-app": "App",
     "header-search": "Search for:",
     "header-contactus": "Contact Us",
+    language: "Language",
+    eng: "English",
+    vie: "Vietnamese",
 
     "body-top-title": "WE PROVIDE THE BEST SOLUTION FOR CLIENT",
     "body-top-h2":
@@ -49,6 +54,10 @@ const translations = {
     "our-projects": "OUR PROJECTS",
     "latest-experiment": "Our featured projects",
     "read-more": "Read More",
+    "TPE-208W": "TPE-208W Elevator Board",
+    "tpe-216": "TPE-216W Elevator Board",
+    "kcz-7211w": "KCZ-7211W Elevator Board",
+    "kcz-8021": "KCZ-8021 Elevator Board",
     "support-section-title": "Ready to answer all your questions.",
     "support-section-content":
       "Ask about Engitech products, pricing, implementation, or anything else. Our highly trained reps are standing by, ready to help.",
@@ -101,6 +110,24 @@ const translations = {
     "project-done": "Project Done",
     "team-advisors": "Team Advisors",
     "glorious-years": "Glorious Years",
+    "access-control": "Access Control Benefits",
+    "benefit-1": "Protects Safety and Assets",
+    "benefit-1-content":
+      "Safety for assets and data with restricted access control.",
+    "benefit-2": "Protects Important Data",
+    "benefit-2-content":
+      "Protection against unauthorized data manipulation or deletion.",
+    "benefit-3": "Compliance with Regulations and Laws",
+    "benefit-3-content":
+      "Adherence to regulations and laws regarding data security.",
+    "benefit-4": "Access Rights Management",
+    "benefit-4-content": "Precise management of user access rights.",
+    "benefit-5": "Monitoring and Audit Trail",
+    "benefit-5-content":
+      "Monitoring user activities for security and compliance.",
+    "benefit-6": "Enhances Efficiency and Performance",
+    "benefit-6-content":
+      "Enhanced efficiency via controlled access and security.",
   },
   vi: {
     schedule: "<i class='fas fa-clock'></i> Th2 - Th7: 8.00 SA - 5.15 CH",
@@ -114,9 +141,14 @@ const translations = {
     "header-singlepproducts": "Sản phảm đơn",
     "header-comboproducts": "Sản phẩm Combo",
     "header-coopproducts": "Sản phẩm hợp tác",
+    "mitsubishi-tool": "Các công cụ Mitsubishi",
     "header-document": "Tài liệu",
+    "header-app": "Ứng dụng",
     "header-search": "Tìm kiếm:",
     "header-contactus": "Liên hệ",
+    language: "Ngôn ngữ",
+    eng: "Tiếng Anh",
+    vie: "Tiếng Việt",
 
     "body-top-title":
       "CHÚNG TÔI CUNG CẤP NHỮNG GIẢI PHÁP TỐT NHẤT CHO KHÁCH HÀNG",
@@ -148,6 +180,10 @@ const translations = {
       "Phù hợp với nhiều đối tượng khác hàng khác nhau, giúp bạn dễ dàng có được các dịch vụ chất lượng.",
     "our-product": "SẢN PHẨM",
     "our-product-heading": "Giới thiệu các sản phẩm của chúng tôi",
+    "TPE-208W": "Mạch thang máy TPE-208W Elevator Board",
+    "tpe-216": "Mạch thang máyTPE-216W Elevator Board",
+    "kcz-7211w": "Mạch thang máyKCZ-7211W Elevator Board",
+    "kcz-8021": "KCZ-8021 Elevator Board",
     design: "Thiết kế",
     development: "Phát triển",
     "our-projects": "DỰ ÁN",
@@ -206,6 +242,23 @@ const translations = {
     "project-done": "Dự Án Hoàn Thành",
     "team-advisors": "Cố Vấn Viên",
     "glorious-years": "Năm Kinh Nghiệm",
+    "access-control": "Lợi ích hệ thống kiểm soát truy cập",
+    "benefit-1": "Bảo vệ An toàn và Tài sản",
+    "benefit-1-content":
+      "Bảo vệ tài sản và dữ liệu với kiểm soát truy cập hạn chế.",
+    "benefit-2": "Bảo vệ Dữ liệu Quan trọng",
+    "benefit-2-content":
+      "Bảo vệ chống lại việc can thiệp dữ liệu hoặc xóa không được ủy quyền.",
+    "benefit-3": "Tuân thủ Quy định và Luật pháp",
+    "benefit-3-content": "Tuân thủ các quy định và luật lệ về bảo mật dữ liệu.",
+    "benefit-4": "Quản lý Quyền truy cập",
+    "benefit-4-content": "Quản lý chính xác quyền truy cập của người dùng.",
+    "benefit-5": "Theo dõi và Ghi nhật ký (Audit trail)",
+    "benefit-5-content":
+      "Theo dõi hoạt động của người dùng để đảm bảo an ninh và tuân thủ quy định.",
+    "benefit-6": "Nâng cao Hiệu quả và Hiệu suất",
+    "benefit-6-content":
+      "Tăng cường hiệu quả thông qua việc kiểm soát truy cập và bảo mật.",
   },
 };
 
